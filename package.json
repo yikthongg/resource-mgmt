@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/yikthongg/resource-mgmt/issues"
   },
-  "homepage": "https://github.com/yikthongg/resource-mgmt#readme"
+  "homepage": "https://github.com/yikthongg/resource-mgmt#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }
